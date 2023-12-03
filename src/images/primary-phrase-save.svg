@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+    id="svg1"
+    inkscape:version="0.41"
+    viewBox="0 0 60 60"
+    sodipodi:version="0.32"
+    _SVGFile__filename="oldscale/actions/bookmark_add.svg"
+    version="1.0"
+    y="0"
+    x="0"
+    sodipodi:docname="phrase_save.svg"
+    sodipodi:docbase="/home/danny/work/icons/primary/scalable/actions"
+  >
+  <sodipodi:namedview
+      id="base"
+      bordercolor="#666666"
+      inkscape:window-x="0"
+      inkscape:window-y="0"
+      pagecolor="#ffffff"
+      inkscape:zoom="6.9465337"
+      inkscape:pageshadow="2"
+      borderopacity="1.0"
+      inkscape:current-layer="svg1"
+      inkscape:cx="47.135455"
+      inkscape:cy="12.308433"
+      inkscape:window-width="1020"
+      inkscape:pageopacity="0.0000000"
+      inkscape:window-height="691"
+  />
+  <path
+      id="path1097"
+      d="m6.6826 4.6879c-1.1054 0-1.9953 0.8962-1.9953 2.0095v46.606c0 1.113 0.8899 2.009 1.9953 2.009h46.634c1.106 0 1.996-0.896 1.996-2.009v-46.606c0-1.1129-0.89-2.0091-1.996-2.0091h-46.634z"
+      style="stroke-linejoin:round;stroke:#ffffff;stroke-linecap:round;stroke-width:12.416;fill:none"
+      transform="matrix(.65438 0 0 .65438 1.6202 1.6198)"
+  />
+  <path
+      id="rect812"
+      d="m6.6826 4.6879c-1.1054 0-1.9953 0.8962-1.9953 2.0095v46.606c0 1.113 0.8899 2.009 1.9953 2.009h46.634c1.106 0 1.996-0.896 1.996-2.009v-46.606c0-1.1129-0.89-2.0091-1.996-2.0091h-46.634z"
+      style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:4.7755;fill:#ffffff"
+      transform="matrix(.65438 0 0 .65438 1.6202 1.6198)"
+  />
+  <path
+      id="path842"
+      sodipodi:nodetypes="cc"
+      style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-width:4.8358;fill:none"
+      transform="matrix(.64622 0 0 .64622 2.0649 1.607)"
+      d="m13.271 15.337h32.84"
+  />
+  <path
+      id="path1214"
+      sodipodi:nodetypes="cc"
+      style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-width:4.8358;fill:none"
+      transform="matrix(.64622 0 0 .64622 2.0649 1.607)"
+      d="m13.271 45.46h16.06"
+  />
+  <path
+      id="path843"
+      style="fill-rule:evenodd;fill:#000000"
+      d="m10.5 16.438c-0.8042 0.11-1.4171 0.845-1.375 1.656 0.0421 0.81 0.7199 1.442 1.531 1.468h11.313v-3.124h-11.313c-0.054-0.003-0.102-0.003-0.156 0z"
+  />
+  <path
+      id="path844"
+      sodipodi:nodetypes="cc"
+      style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-width:4.8358;fill:none"
+      transform="matrix(.64622 0 0 .64622 2.0649 1.607)"
+      d="m13.271 35.419h32.84"
+  />
+  <g
+      id="g3605"
+    >
+    <path
+        id="path1226"
+        style="stroke-linejoin:round;stroke:#ffffff;stroke-linecap:round;stroke-width:8.125;fill:none"
+        d="m23.597 20.936c-0.78 0-1.408 0.628-1.408 1.407v31.562c0 0.78 0.628 1.407 1.408 1.407h30.308c0.78 0 1.408-0.627 1.408-1.407v-28.329l-4.663-4.64h-27.053z"
+    />
+    <path
+        id="path646"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke-linecap:round;fill:#ffe940"
+        d="m23.597 20.936c-0.78 0-1.408 0.628-1.408 1.407v31.562c0 0.78 0.628 1.407 1.408 1.407h30.308c0.78 0 1.407-0.627 1.407-1.407v-28.329l-4.662-4.64h-27.053z"
+    />
+    <path
+        id="path655"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:2.5;fill:#babec3"
+        d="m46.471 21.021v8.797c0 0.899-0.79 1.623-1.771 1.623h-11.898c-0.981 0-1.771-0.724-1.771-1.623v-8.797"
+    />
+    <path
+        id="rect656"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke-linecap:round;stroke-width:1.25;fill:#000000"
+        d="m42.69 23.993c0.429 0 0.774 0.345 0.774 0.773v3.453c0 0.429-0.345 0.774-0.774 0.774h-2.095c-0.429 0-0.774-0.345-0.774-0.774v-3.453c0-0.428 0.345-0.773 0.774-0.773h2.095z"
+    />
+    <path
+        id="path659"
+        style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-width:3.125;fill:none"
+        d="m23.597 20.936c-0.78 0-1.408 0.628-1.408 1.407v31.562c0 0.78 0.628 1.407 1.408 1.407h30.308c0.78 0 1.407-0.627 1.407-1.407v-28.329l-4.662-4.64h-27.053z"
+    />
+    <path
+        id="rect731"
+        sodipodi:nodetypes="ccccccccc"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:2.5;fill:#d9dddf"
+        d="m29.086 36.065c-0.62 0-1.12 0.5-1.12 1.122v12.128c0 0.622 0.5 1.123 1.12 1.123h19.329c0.621 0 1.12-0.501 1.12-1.123v-12.128c0-0.622-0.499-1.122-1.12-1.122h-19.329z"
+    />
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
