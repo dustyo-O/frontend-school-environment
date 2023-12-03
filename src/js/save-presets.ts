@@ -1,6 +1,6 @@
 import { save } from './saveload';
 
-function savePresets(choice) {
+function savePresets(choice: unknown) {
   save('presets', JSON.stringify(choice));
 }
 

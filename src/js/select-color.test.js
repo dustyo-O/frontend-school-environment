@@ -19,5 +19,5 @@ test('select-color', () => {
 
   red.click();
 
-  expect(screen.getByRole(''))
+  expect(screen.getByRole(''));
 });

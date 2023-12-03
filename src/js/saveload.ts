@@ -1,10 +1,11 @@
-export function load(item) {
+function load(item: string) {
   const value = localStorage.getItem(item);
 
   return value;
 }
 
-export function save(item, value) {
-  console.error('hi!');
+function save(item: string, value: string) {
   localStorage.setItem(item, value);
 }
+
+export { save, load };

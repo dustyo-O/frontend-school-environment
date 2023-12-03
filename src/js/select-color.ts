@@ -1,6 +1,6 @@
 const UNSPLASH_COLORS = ['black_and_white', 'black', 'white', 'yellow', 'orange', 'red', 'purple', 'magenta', 'green', 'teal', 'blue'];
 
-function selectColor(container, onSelect) {
+function selectColor(container: HTMLElement, onSelect: (value: string) => void) {
   const select = document.createElement('select');
 
   const placeholderOption = document.createElement('option');
@@ -16,7 +16,7 @@ function selectColor(container, onSelect) {
     select.appendChild(option);
   }
   select.addEventListener('change', ({ target }) => {
-    onSelect(target.value);
+    onSelect((target as HTMLSelectElement).value);
   });
 
   container.appendChild(select);

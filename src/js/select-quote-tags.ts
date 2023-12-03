@@ -1,4 +1,6 @@
-function selectQuoteTags(container, onSelect) {
+import { QuoteTag, QuotesTagResponse } from "../types/api";
+
+function selectQuoteTags(container: HTMLElement, onSelect: (value: string) => void) {
   const select = document.createElement('select');
   select.disabled = true;
 
@@ -9,8 +11,8 @@ function selectQuoteTags(container, onSelect) {
 
   fetch('https://api.quotable.io/tags')
     .then((response) => response.json())
-    .then((tagsJson) => {
-      const tags = tagsJson.filter((tag) => tag.quoteCount > 10);
+    .then((tagsJson: QuotesTagResponse) => {
+      const tags = tagsJson.filter((tag: QuoteTag) => tag.quoteCount > 10);
 
       return tags;
     })
@@ -28,7 +30,7 @@ function selectQuoteTags(container, onSelect) {
 
       select.disabled = false;
       select.addEventListener('change', ({ target }) => {
-        onSelect(target.value);
+        onSelect((target as HTMLSelectElement).value);
       });
     });
 
