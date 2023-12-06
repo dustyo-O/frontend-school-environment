@@ -1,3 +1,4 @@
+import { UnsplashImage } from '../types/api';
 import { mostLikedImage } from './most-liked-image';
 
 test('Selects most liked image', () => {
@@ -26,9 +27,9 @@ test('Selects most liked image', () => {
       },
       likes: 1821,
     },
-  ]);
+  ] as unknown as UnsplashImage[]);
 
-  expect(image.id).toBe('Z2ImfOCafFk');
+  expect(image?.id).toBe('Z2ImfOCafFk');
 });
 
 test('If likes are equal, selects first', () => {
@@ -57,7 +58,7 @@ test('If likes are equal, selects first', () => {
       },
       likes: 3527,
     },
-  ]);
+  ] as unknown as UnsplashImage[]);
 
-  expect(image.id).toBe('lUaaKCUANVI');
+  expect(image?.id).toBe('lUaaKCUANVI');
 });

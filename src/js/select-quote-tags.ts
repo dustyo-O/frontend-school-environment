@@ -1,4 +1,4 @@
-import { QuoteTag, QuotesTagResponse } from "../types/api";
+import { QuoteTag, QuotesTagResponse } from '../types/api';
 
 function selectQuoteTags(container: HTMLElement, onSelect: (value: string) => void) {
   const select = document.createElement('select');

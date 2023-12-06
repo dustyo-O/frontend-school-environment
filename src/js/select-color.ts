@@ -2,6 +2,7 @@ const UNSPLASH_COLORS = ['black_and_white', 'black', 'white', 'yellow', 'orange'
 
 function selectColor(container: HTMLElement, onSelect: (value: string) => void) {
   const select = document.createElement('select');
+  select.setAttribute('role', 'listbox');
 
   const placeholderOption = document.createElement('option');
   placeholderOption.textContent = 'Выберите цвет...';

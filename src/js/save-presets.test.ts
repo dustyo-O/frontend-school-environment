@@ -9,6 +9,6 @@ test('saves stringified object', () => {
     color: 'red',
   });
 
-  expect(save).toBeCalledTimes(1);
-  expect(save).toBeCalledWith('presets', '{"topic":"wisdom","color":"red"}');
+  expect(save).toHaveBeenCalledTimes(1);
+  expect(save).toHaveBeenCalledWith('presets', '{"topic":"wisdom","color":"red"}');
 });

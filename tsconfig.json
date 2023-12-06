@@ -7,12 +7,12 @@
 		"sourceMap": true,
 		"esModuleInterop": true,
 		"lib": ["es2015", "dom"],
-
-		// единственное отличие от конфига из видео -
-		// я хочу чтобы мы держали исходники в папке src, как всегда
-		"rootDir": "./src"
 	},
 	"include": [
-		"./src/**/*.ts"
+		"./src/**/*.ts",
+		"webpack.config.js",
+		"webpack.development.config.js",
+		"jest.config.js",
+		"jest-setup.ts"
 	]
 }

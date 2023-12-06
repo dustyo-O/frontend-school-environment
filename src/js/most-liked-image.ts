@@ -1,4 +1,4 @@
-import { UnsplashImage } from "../types/api";
+import { UnsplashImage } from '../types/api';
 
 function mostLikedImage(images: UnsplashImage[]): UnsplashImage | undefined {
   let maxLikes = -1;
