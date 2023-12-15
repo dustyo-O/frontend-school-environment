@@ -6,7 +6,7 @@ const onSelect = jest.fn();
 test('select-color', () => {
   selectColor(document.body, onSelect);
 
-  const select = screen.getByRole('listbox');
+  const select = screen.getByText('Выберите цвет...');
 
   expect(select).toBeVisible();
 

@@ -2,6 +2,7 @@ import { QuoteTag, QuotesTagResponse } from '../types/api';
 
 function selectQuoteTags(container: HTMLElement, onSelect: (value: string) => void) {
   const select = document.createElement('select');
+  select.classList.add('select-quote-tags');
   select.disabled = true;
 
   const loadingOption = document.createElement('option');
